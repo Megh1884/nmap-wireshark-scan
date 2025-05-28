@@ -1,0 +1,10 @@
+# Nmap 7.97 scan initiated Wed May 28 10:51:54 2025 as: nmap -sS -oN C:\\Users\\Megh\\Desktop\\scan_result.txt 192.168.110.185
+Nmap scan report for 192.168.110.185
+Host is up (0.0011s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+# Nmap done at Wed May 28 10:51:54 2025 -- 1 IP address (1 host up) scanned in 0.99 seconds
